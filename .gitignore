@@ -8,4 +8,4 @@ __pycache__
 **/momentum_strategy.xlsx
 venv/
 myenv/
-/mysecrets.py
+**/mysecrets.py
